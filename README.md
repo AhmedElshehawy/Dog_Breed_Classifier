@@ -3,7 +3,9 @@
 ### Steps:
 * We need to build dog detector, and human face detector.
 * Next we will build a CNN from scratch to classify the dog breeds.
-* Then we will build a CNN using transfer learnig and compare results to choose the best one 
+* Then we will build a CNN using transfer learnig and compare results to choose the best one. 
+
+
 The task of assigning breed to dogs from images is considered exceptionally challenging.  To see why, consider that *even a human* would have trouble distinguishing between a Brittany and a Welsh Springer Spaniel.  
 
 Brittany | Welsh Springer Spaniel
