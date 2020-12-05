@@ -26,3 +26,5 @@ Yellow Labrador | Chocolate Labrador | Black Labrador
 <img src="images/Labrador_retriever_06457.jpg" width="150"> | <img src="images/Labrador_retriever_06455.jpg" width="240"> | <img src="images/Labrador_retriever_06449.jpg" width="220">
 
 And random chance presents an exceptionally low bar: setting aside the fact that the classes are slightly imabalanced, a random guess will provide a correct answer roughly 1 in 133 times, which corresponds to an accuracy of less than 1%. 
+
+### So I'm only targeting 70% accuracy or higher.
